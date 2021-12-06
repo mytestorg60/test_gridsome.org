@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Komponente_124_1"
+   data-name="Komponente 124 – 1"
+   width="36"
+   height="36"
+   viewBox="0 0 36 36"
+   version="1.1"
+   sodipodi:docname="logo-deploy-to-ionos.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.9166667"
+     inkscape:cx="44.313253"
+     inkscape:cy="17.927711"
+     inkscape:window-width="3072"
+     inkscape:window-height="1659"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Komponente_124_1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="Button_Primary_basic"
+     data-name="Button/Primary basic"
+     transform="matrix(0.2,0,0,1,0,-1)">
+    <rect
+       id="Background"
+       width="180"
+       height="36"
+       rx="3"
+       transform="translate(0,1)"
+       fill="#003d8f"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     id="Gruppe_2393"
+     data-name="Gruppe 2393"
+     transform="translate(-73.9,-35.7)">
+    <g
+       id="_2px_lineup_black"
+       data-name=" 2px lineup black"
+       transform="translate(81.9,43.7)">
+      <g
+         id="deploy-now">
+        <path
+           id="Pfad_488"
+           data-name="Pfad 488"
+           d="M 146.077,105.323 143.06,102.2 v 2.622 h -2.56 a 0.477,0.477 0 0 0 0,0.954 h 2.565 v 2.479 z"
+           transform="translate(-126.077,-88.255)"
+           fill="#ffffff"
+           stroke="#ffffff"
+           stroke-width="0.5" />
+        <g
+           id="Gruppe_2390"
+           data-name="Gruppe 2390">
+          <path
+             id="Pfad_489"
+             data-name="Pfad 489"
+             d="m 87.363,70.887 a 0.435,0.435 0 0 0 0.3,-0.119 0.47,0.47 0 0 0 0.023,-0.667 l -0.278,-0.358 a 6.81,6.81 0 0 1 -1.295,-5.888 5.813,5.813 0 0 1 2.05,-3.034 0.493,0.493 0 0 0 0.07,-0.667 0.466,0.466 0 0 0 -0.65,-0.1 c -0.139,0.119 -0.255,0.215 -0.394,0.334 -3.016,2.837 -2.937,7.229 -0.176,10.328 a 0.413,0.413 0 0 0 0.35,0.171 z"
+             transform="translate(-84.315,-55.875)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0.5" />
+          <path
+             id="Pfad_490"
+             data-name="Pfad 490"
+             d="M 97.1,51.185 A 7.447,7.447 0 0 0 90.023,45.964 V 43.7 L 87,46.823 l 3.016,2.646 v -2.575 0 a 6.677,6.677 0 0 1 0,13.349 h -7.652 a 0.477,0.477 0 0 0 0,0.954 h 7.68 a 7.906,7.906 0 0 0 2.343,-0.381 7.634,7.634 0 0 0 4.713,-9.631 z"
+             transform="translate(-81.9,-43.7)"
+             fill="#ffffff"
+             stroke="#ffffff"
+             stroke-width="0.5" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
